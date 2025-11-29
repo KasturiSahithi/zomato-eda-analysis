@@ -6,7 +6,7 @@ Exploratory Data Analysis on the Zomato Bangalore Restaurants Dataset using Pyth
  **📌 Project Overview**
 This project performs an in-depth Exploratory Data Analysis (EDA) on the Zomato Bangalore Restaurants dataset to uncover insights on customer preferences, cuisine trends, prices, ratings, and restaurant behavior.
 
-Tools used: **Python, Pandas, NumPy, Matplotlib, Seaborn**
+Tools used: **Python, Pandas, NumPy, Matplotlib, Seaborn,Jupyter Notebook**
 
 
 ## 📂 Dataset
